@@ -40,4 +40,3 @@ func hello_rain():
 
 func hello_bean():
 	print("hello bean")
-
