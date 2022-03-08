@@ -10,6 +10,8 @@ func _ready():
 	hello_brian()
 	hello_rain()
 	hello_alex()
+	hello_josh()
+	hello_bean()
 
 func hello_forest():
 	print("hello forest")
@@ -41,4 +43,8 @@ func hello_rain():
 func hello_alex():
 	print("hello alex")
 
-
+func hello_josh():
+	print("hello josh")
+  
+func hello_bean():
+	print("hello bean")
